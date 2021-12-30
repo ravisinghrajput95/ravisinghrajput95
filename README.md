@@ -5,10 +5,9 @@
 
 - 🔭 I’m currently working as **DevOps Engineer at Xoriant Solutions pvt ltd, Pune, India**
 
-- 🌱 I’m currently learning **everything**
-<img width="400" height="270" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" align=right>
+- 🌱 I’m currently learning everything 🤣
 
-- 📫 How to reach me **ravisinghrajput005@gmail.com**
+- 📫 Reach me at **ravisinghrajput005@gmail.com**
 
 - ⚡ Fun fact **I love playing cricket🏏**
 
