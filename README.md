@@ -20,7 +20,7 @@
 <a href="https://www.prometheus.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40"/> </a>
 <a href="https://www.argocd.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" alt="argocd" width="40" height="40"/> </a>
 <a href="https://www.bash.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
-<a href="https://www.sonarqube.com" target="_blank"> <img src="https://raw.githubusercontent.com/ravisinghrajput95/ravisinghrajput95/main/icons/sonarqube.png" alt="sonarqube" width="20" height="20"/> </a>
+<a href="https://www.sonarqube.com" target="_blank"> <img src="https://raw.githubusercontent.com/ravisinghrajput95/ravisinghrajput95/main/icons/sonarqube.png" alt="sonarqube" width="60" height="60"/> </a>
 <a href="https://www.jfrog.com" target="_blank"> <img src="https://raw.githubusercontent.com/ravisinghrajput95/ravisinghrajput95/main/icons/jfrog.png" alt="jfrog" width="40" height="40"/> </a>
 <a href="https://www.helm.com" target="_blank"> <img src="https://raw.githubusercontent.com/ravisinghrajput95/ravisinghrajput95/main/icons/helm.png" alt="helm" width="40" height="40"/> </a>
 <a href="https://www.github.com" target="_blank"> <img src="https://raw.githubusercontent.com/ravisinghrajput95/ravisinghrajput95/main/icons/github.png" alt="github" width="40" height="40"/> </a>
