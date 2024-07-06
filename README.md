@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ravi Singh Rajput</h1>
 <h3 align="center">I'm a Cloud and DevOps professional. I'm an Automation Tech Enthusiast 💻 😃 Passionate about learning multiple Cloud based tools and technologies. I love integrating multiple technologies and automating them.</h3>
 
-- 📫 Reach me at **ravisinghrajput005@gmail.com**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
