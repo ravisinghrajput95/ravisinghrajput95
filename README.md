@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Ravi Singh Rajput</h1>
+<h1 align="center">Hey 👋, I'm Ravi Rajput</h1>
 <h3 align="center">☁️ Cloud & DevOps/DevSecOps Engineer | GitOps | SRE | FinOps</h3>
 
 <p align="center">
