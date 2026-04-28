@@ -1,12 +1,12 @@
-<h1 align="center">Hey 👋, I'm Ravi Rajput</h1>
-<h3 align="center">☁️ Cloud & DevOps/DevSecOps Engineer | GitOps | SRE | FinOps | AI Enthusiast</h3>
+<h1 align="center">Hey 👋, I'm Ravi Singh Rajput</h1>
+<h3 align="center">☁️ Cloud & DevOps/DevSecOps Engineer | GitOps | SRE | FinOps</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ravisinghrajput05" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/ravisinghrajput95" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://medium.com/@ravisrajput" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </p>
 
