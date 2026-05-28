@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 
-- ☁️ Cloud & DevOps/DevSecOps Engineer with hands-on experience across **AWS, GCP, and Azure**
+- ☁️ Cloud & DevOps/DevSecOps Engineer with hands-on experience across **AWS and Azure**
 - 🔁 Building scalable **CI/CD pipelines**, **GitOps workflows**, and **infrastructure automation**
 - 🛡️ Security embedded at every stage — from code to cloud
 - 📊 Driving **FinOps** practices with cost visibility, tagging compliance, and automated enforcement
@@ -28,7 +28,6 @@
 #### ☁️ Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
 #### 🐳 Containers & Orchestration
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
